@@ -19,4 +19,6 @@ func main() {
 	userTicket = 2
 	fmt.Printf("user %v booked %v tickets.\n", userName, userTicket)
 
+	// Naona una endelea vizuri
+
 }
