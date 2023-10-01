@@ -4,8 +4,8 @@ import "fmt"
 
 func main() {
 	var confrenceName = "Go confrence"
-	const confrenceTicket = 50
-	var remainingTicket = 50
+	const confrenceTicket = 100
+	var remainingTicket = 100
 
 	fmt.Printf("Welcome to %v booking application\n", confrenceName)
 	fmt.Printf("We have a total of %v ticket and %v are still available.\n", confrenceTicket, remainingTicket)
